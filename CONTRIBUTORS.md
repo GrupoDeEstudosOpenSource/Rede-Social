@@ -4,11 +4,13 @@
 [O grupo](https://www.facebook.com/groups/1318495538253871/)
 ## Scrum master.
 Nome dos voluntários  
-[Leandro Brandão](https://github.com/LeandroMeuGitHub)
+[Leandro Brandão](https://github.com/LeandroMeuGitHub) <br>
+[Janderson Ferreira Machado](https://github.com/developmentlibrary)
 
 ## Dev Team.
 [Leandro Brandão](https://github.com/LeandroMeuGitHub) <br>
-[Neverson Bento da Silva](https://github.com/Dersaun)<br>
+[Neverson Bento da Silva](https://github.com/Dersaun) <br>
+[Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
 [Alan Pinho Santos Junior](https://github.com/Alanpsj/)<br>
 [Rui Bernardes Pereira](https://github.com/vortexti)<br>
 
