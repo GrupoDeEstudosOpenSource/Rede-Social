@@ -13,4 +13,5 @@ Nome dos voluntários
 [Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
 [Alan Pinho Santos Junior](https://github.com/Alanpsj/)<br>
 [Rui Bernardes Pereira](https://github.com/vortexti)<br>
+[Nícolas Garibaldi](https://github.com/niknows)<br>
 
