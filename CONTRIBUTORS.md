@@ -10,4 +10,7 @@ Nome dos voluntários
 ## Dev Team.
 [Leandro Brandão](https://github.com/LeandroMeuGitHub) <br>
 [Neverson Bento da Silva](https://github.com/Dersaun) <br>
-[Janderson Ferreira Machado](https://github.com/developmentlibrary)
+[Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
+[Alan Pinho Santos Junior](https://github.com/Alanpsj/)<br>
+[Rui Bernardes Pereira](https://github.com/vortexti)<br>
+
