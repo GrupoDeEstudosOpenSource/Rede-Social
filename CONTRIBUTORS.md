@@ -15,5 +15,6 @@ Nome dos voluntários
 [Alan Pinho Santos Junior](https://github.com/Alanpsj/)<br>
 [Rui Bernardes Pereira](https://github.com/vortexti)<br>
 [Nícolas Garibaldi](https://github.com/niknows)<br>
+[Manfline Aquino](https://github.com/Manfline)<br>
 
 
