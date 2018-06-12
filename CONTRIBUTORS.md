@@ -16,5 +16,7 @@ Nome dos voluntários
 [Rui Bernardes Pereira](https://github.com/vortexti)<br>
 [Nícolas Garibaldi](https://github.com/niknows)<br>
 [Manfline Aquino](https://github.com/Manfline)<br>
+[Reginaldo Ribeiro](https://github.com/drahko)<br>
+
 
 
