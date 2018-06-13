@@ -1,4 +1,4 @@
-# Contribuidores do projeto Rede Social
+﻿# Contribuidores do projeto Rede Social
 
 ## Product Owner.  
 [O grupo](https://www.facebook.com/groups/1318495538253871/)
@@ -19,4 +19,5 @@ Nome dos voluntários
 [Reginaldo Ribeiro](https://github.com/drahko)<br>
 [Eduardo Coutinho](https://github.com/Educolt)<br>
 [Gabriel Coelho](https://github.com/GabSC)<br>
+[Gabriel Aquino de Souza](https://github.com/gabrielaquinosouza)<br>
 
