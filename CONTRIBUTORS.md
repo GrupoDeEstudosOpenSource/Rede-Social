@@ -20,8 +20,4 @@ Nome dos voluntários
 [Eduardo Coutinho](https://github.com/Educolt)<br>
 [Gabriel Coelho](https://github.com/GabSC)<br>
 [Gabriel Aquino de Souza](https://github.com/gabrielaquinosouza)<br>
-<<<<<<< HEAD
 [Alex Xavier](https://github.com/Alex-Xavier)<br>
-=======
-
->>>>>>> 954f4633586736f34dd98b8c42df6b33b2e1c254
