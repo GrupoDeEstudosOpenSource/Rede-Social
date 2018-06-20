@@ -23,4 +23,3 @@ Nome dos voluntários
 [Alex Xavier](https://github.com/Alex-Xavier)<br>
 [Leandro Geraldo Dos Reis](https://github.com/LeandroReis1997)<br>
 
-
