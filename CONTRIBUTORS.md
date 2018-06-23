@@ -23,3 +23,4 @@ Nome dos voluntários
 [Alex Xavier](https://github.com/Alex-Xavier)<br>
 [Leandro Geraldo Dos Reis](https://github.com/LeandroReis1997)<br>
 [Wander Augusto](https://github.com/waslinux)<br>
+[Danilo Macedo Bakun](https://github.com/DaniloMacB)<br>
